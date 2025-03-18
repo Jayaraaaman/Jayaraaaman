@@ -1,6 +1,5 @@
 - 👋 Hello there, I’m @Jayaraman
-- 👀 I’m interested in exploring new things.
-- 🌱 I am building expertise in Power BI, SQL, and Excel.
+- 👀 I am building expertise in Power BI, SQL, and Excel.
 - 📫 Reach me at jairaman1997@gmail.com
 - ⚡ Fun fact An Electrical Engineer Turned Data Professional.
 
