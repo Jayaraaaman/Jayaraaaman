@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jayaraman </h1>
+<h1 align="center">Hello there 👋, I'm Jayaraman </h1>
 <h3 align="center">Data Analyst</h3>
 
 - 🌱 I’m currently building expertise in **Power BI**, **SQL**, **Excel**
