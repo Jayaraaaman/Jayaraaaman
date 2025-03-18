@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst</h3>
 
 - 🌱 I’m currently building expertise in **Power BI**, **SQL**, **Excel**
-- 📫 How to reach me [jairaman1997@gmail.com](mailto:jairaman1997@gmail.com)
+- 📫 Reach me at [jairaman1997@gmail.com](mailto:jairaman1997@gmail.com)
 - ⚡ Fun fact: **An Electrical Engineer Turned Data Professional**
 
 ---
