@@ -8,12 +8,15 @@
 ---
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+<a href="https://linkedin.com/in/jayaraman-s-1ba174117" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
 
 ---
 
 ### Languages and Tools:
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<p>
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
+    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+</p>
