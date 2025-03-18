@@ -19,4 +19,5 @@
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
     <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel"/>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+    <img src="https://img.icons8.com/color/48/000000/google-data-studio.png" alt="Looker Studio"/>
 </p>
